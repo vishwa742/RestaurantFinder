@@ -5,4 +5,4 @@ Restaurant Data obtained using Yelp Api: https://www.yelp.com/developers/documen
 
 ## Demo
 
-![](https://gifs.com/gif/restaurant-finder-3Q4rYp)
+![](Screenshots/register.png)
