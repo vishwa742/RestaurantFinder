@@ -1,0 +1,43 @@
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Arvo:700,400' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
+    <link rel="stylesheet"  href="{{ url_for('static', filename='css/s.css')}}">  </head>
+
+  </head>
+
+
+<script src="{{url_for('static', filename='js/jav.js')}}"></script>
+<script src="{{url_for('static', filename='js/j.js')}}"></script>
+
+
+
+<body>
+    <header class="container-fluid">
+      <div class="container text-center" id="searchBox">
+        <h1> Find Restaurants Near You! </h1>
+        <div class="form col-xs-12 ">
+        <form action=""  name="form1" method="POST" placeholder="Enter a location">
+            <div class="form-group">
+                <label><p>Enter a location </p></label>
+                <input class="form-control" type="text" name="search">
+                <p style="margin-bottom:1;"></p>
+                
+            </div>
+
+            <button type="submit"  class="btn btn-primary mb-2">Search</button>
+            
+          </div>
+        </div>
+    </form>
+
+    
+
+        
+      </div>
+    </header>
+
+
