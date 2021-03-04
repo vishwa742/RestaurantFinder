@@ -10,25 +10,17 @@
   </head>
 
 
-<script src="{{url_for('static', filename='js/jav.js')}}"></script>
-<script src="{{url_for('static', filename='js/j.js')}}"></script>
-
-
-
 <body>
     <header class="container-fluid">
       <div class="container text-center" id="searchBox">
         <h1> Find Restaurants Near You! </h1>
         <div class="form col-xs-12 ">
         <form action=""  name="form1" method="POST" placeholder="Enter a location">
-            <div class="form-group">
-                <label><p>Enter a location </p></label>
-                <input class="form-control" type="text" name="search">
-                <p style="margin-bottom:1;"></p>
-                
-            </div>
+ 
+            <input class="col-xs-9" id="searchBar" type="text" name="search" placeholder="search" />
+          
+          </div>
 
-            <button type="submit"  class="btn btn-primary mb-2">Search</button>
             
           </div>
         </div>
