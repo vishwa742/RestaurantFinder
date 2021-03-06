@@ -29,6 +29,11 @@ body {
   background: #fff;
   border-radius: 1rem;
   padding: 1rem 3rem;
+  box-shadow: 5px 10px #dee3e7e1;
+}
+
+book:hover {
+  background-color: yellow;
 }
 
 .book h1 {
