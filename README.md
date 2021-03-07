@@ -5,5 +5,6 @@ A website that will allow you to find restaurants anywhere across the United Sta
 
 ## Demo
 
-![Live Build](https://restaurant-finder-vish.herokuapp.com/)
+[Live Build](https://restaurant-finder-vish.herokuapp.com/)
+
 
