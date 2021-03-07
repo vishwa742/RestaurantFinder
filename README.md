@@ -5,15 +5,5 @@ A website that will allow you to find restaurants anywhere across the United Sta
 
 ## Demo
 
-![](Screenshots/gif1.gif)
+![Live Build](https://restaurant-finder-vish.herokuapp.com/)
 
-![](Screenshots/gif2.gif)
-
-
-## Currently Working on:
-
-- Frontend and animations for the result
-- Functionaly to sort by Ratings and Price
-- Directions to restaurants using Google Maps API
-
-Restaurant Data obtained using Yelp Api: https://www.yelp.com/developers/documentation/v3
